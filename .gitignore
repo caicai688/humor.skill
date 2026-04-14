@@ -1,0 +1,15 @@
+# 音频文件（太大，不上传）
+*.mp3
+
+# 临时文件
+_progress.txt
+.whisper_pid_*
+monitor.log
+monitor.sh
+
+# 转写脚本（工具链，不属于 Skill 本体）
+run_whisper.py
+transcribe_*.py
+
+# macOS
+.DS_Store
