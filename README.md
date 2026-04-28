@@ -12,7 +12,7 @@
 
 ## ✨ 这是什么
 
-这是一个为 [CodeBuddy / WorkBuddy](https://www.codebuddy.cn) 打造的 **AI Skill**。
+这是一个为AI agent打造的 **AI Skill**。
 
 它做了一件事：**让 AI 变得有趣。**
 
